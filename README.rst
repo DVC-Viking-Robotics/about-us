@@ -2,7 +2,7 @@
 Welcome
 ------------
 
-If you're reading this, you are probably thinking about contributing to the `DVC-Viking-Robotics`_ software and web development. This is your starting point; think of this readme file as a the "GO" space on a Monopoly board game. You start here, land on a task, then come back around for another "GO" because all useful links will be contained here.
+If you're reading this, you are probably thinking about contributing to the `DVC-Viking-Robotics <https://github.com/DVC-Viking-Robotics>`_ software and web development. This is your starting point; think of this readme file as a the "GO" space on a Monopoly board game. You start here, land on a task, then come back around for another "GO" because all useful links will be contained here.
 
 what do I need to know
 -----------------------
