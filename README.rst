@@ -4,7 +4,7 @@ Welcome
 
 If you're reading this, you are probably thinking about contributing to the `DVC-Viking-Robotics <https://github.com/DVC-Viking-Robotics>`_ software and web development. This is your starting point; think of this readme file as a the "GO" space on a Monopoly board game. You start here, land on a task, then come back around for another "GO" because all useful links will be contained here.
 
-what do I need to know
+What Do I Need to Know?
 -----------------------
 
 When contributing to a organization or community, they'll always recommend you review the "contributing guideline" document. No one ever really reads through the guidelines because they are usually long-winded and can get very complicated. The general rule for contributing is to keep things professional. If you read that previous sentence, then you've just read the our contributing guideline.
@@ -16,7 +16,7 @@ What If I Am New/Rusty at Programming?
 
 That's good! Our primary goal as an organization is to learn, sharpen, and hone the skills you'll probably need in the world outside our small spectrum. Here are some links to great "learning-the-basics" resources to get you started:
 
-* `Sololearn <https://www.sololearn.com/>`_ has some great walkthroughs on `Python <https://www.sololearn.com/Course/Python/>`_, `C++ <https://www.sololearn.com/Course/CPlusPlus/> (not arduino, but close)`_, `HTML <https://www.sololearn.com/Course/HTML/>`_, `CSS <https://www.sololearn.com/Course/CSS/>`_, `JavaScript <https://www.sololearn.com/Course/JavaScript/>`_, and many others. They also have an app on mobile platforms for `iOS <https://itunes.apple.com/us/app/id1210079064>`_ and `Android <https://play.google.com/store/apps/details?id=com.sololearn>`_; learn while you're on the toilet! Okay, its not Dr. Suess' "Green Eggs and Ham", but the walkthroughs are quick, easy, and painless.
+* `Sololearn <https://www.sololearn.com/>`_ has some great walkthroughs on `Python <https://www.sololearn.com/Course/Python/>`_, `C++  (not arduino, but very similar) <https://www.sololearn.com/Course/CPlusPlus/>`_, `HTML <https://www.sololearn.com/Course/HTML/>`_, `CSS <https://www.sololearn.com/Course/CSS/>`_, `JavaScript <https://www.sololearn.com/Course/JavaScript/>`_, and many others. They also have an app on mobile platforms for `iOS <https://itunes.apple.com/us/app/id1210079064>`_ and `Android <https://play.google.com/store/apps/details?id=com.sololearn>`_; learn while you're on the toilet! Okay, its not Dr. Suess' "Green Eggs and Ham", but the walkthroughs are quick, easy, and painless.
 
 * The best way to learn is to get your feet wet. That is to say: take a deep breathe and jump right in. This method may seem a little overwhelming, but we encourage asking your fellow team members for help and insights.
 
@@ -31,4 +31,4 @@ The following links will show tasks that need doing related to the software that
 
 If you're interested in web design, you need look no further. the repository that this README.rst lives in is our webpage's home. It sorely needs some tender love and care. We are open to different solutions in this regard
 
-For instance this readme is written in a markup language reStructuredText ("rST" for short). rSt is being used to document our software (in the source code comment blocks) and host it on `ReadTheDocs.org <https://ReadTheDocs.org>`_. Our aim is to allow the software we write to be used by anyone trying to mimic ro improve upon it in their own context.
+For instance this readme is written in a markup language reStructuredText ("rST" for short). rSt is being used to document our software (in the source code comment blocks) and host it on `ReadTheDocs.org <https://rtfd.io>`_. Our aim is to allow the software we write to be used by anyone trying to mimic ro improve upon it in their own context.
