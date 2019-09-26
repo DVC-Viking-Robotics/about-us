@@ -25,7 +25,7 @@ OK. OK. Where do I Jump In?
 
 The following links will show tasks that need doing related to the software that runs on the robot. They are loosely ranked at:
 
-1. `"Beginner" (for the Noobs) <https://github.com/DVC-Viking-Robotics/webapp/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner>`_
+1. `"Beginner" (for the Noobs) <https://github.com/DVC-Viking-Robotics/webapp/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner>`_
 2. `"Apprentice" (for those seeking a challenge) <https://github.com/DVC-Viking-Robotics/webapp/issues?q=is%3Aissue+is%3Aopen+label%3Aapprentice>`_
 3. `"Master Wizard" (for those with experience that want to break through their knowledge's limits) <https://github.com/DVC-Viking-Robotics/webapp/issues?q=is%3Aissue+is%3Aopen+label%3A%22master+wizard%22>`_
 
