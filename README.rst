@@ -14,16 +14,45 @@ It's important that you know what we've done so far.
 2. Spring 2019: `We built the prototype for an autonomous DVC Viking tour-guide robot <http://dvcrobotics.tech/about-us/>`_
 3. Fall 2019: `Right now! We are finishing our prototype to make the viking robot fully autonomous. It will drive from one side of the campus to the other without human assistance by the end of this semester <https://github.com/DVC-Viking-Robotics/about-us/blob/master/README.rst#our-progress>`_
 
+2. What technologies are we using?
+==================================
+The mobile wifi controller that we created is hosted on a python webserver. In addition to that, we are using other programming technologies to optimize the controller and render it more efficient and user-friendly. 
+
+If you aren't familiar with many of these terms, don't worry! Your first step should be to look up information on them so you are familiar with the terminology and utility. Here is a list:
+
+Programming languages:
+-----------------------
+* Python (primary programming language)
+* Flask (a python framework that facilitates the process of launching a standalone webserver)
+* Javascript (used to dynamically update content on the webapp pages to display robot updates & transmit data)
+* C++ (used on arduino's, that pipe sensor data to the server)
+
+Protocols (Serial, Transfer, etc.):
+-----------------------------------
+* HTTP Requests
+* Websocksets
+* I2C 
+* SPI
+* Serial
+
+Hardware & Sensors:
+-------------------
+- Ultrasonics
+- Camera
+- 9Dof sensor (Gyroscope, magnetometer, accelerometer)
+- GPS (and RTK-GPS)
+- Encoders (*not yet implemented*)
+- LIDAR (*not yet implemented*)
 
 
-2. What Do I Need to Know?
+3. What Do I Need to Know?
 =======================
 
 When contributing to a organization or community, they'll always recommend you review the "contributing guideline" document. No one ever really reads through the guidelines because they are usually long-winded and can get very complicated. The general rule for contributing is to keep things professional. If you read that previous sentence, then you've just read the our contributing guideline.
 
 The main programming language we use is Python. We also use C++ for software running on the Arduino. Other languages that are specific to web design include: HTML, CSS, and (if you dare) JavaScript.
 
-3. What If I Am New/Rusty at Programming?
+4. What If I Am New/Rusty at Programming?
 ======================================
 
 That's good! Our primary goal as an organization is to learn, sharpen, and hone the skills you'll probably need in the world outside our small spectrum. Here are some links to great "learning-the-basics" resources to get you started:
@@ -32,7 +61,7 @@ That's good! Our primary goal as an organization is to learn, sharpen, and hone 
 
 * The best way to learn is to get your feet wet. That is to say: take a deep breathe and jump right in. This method may seem a little overwhelming, but we encourage asking your fellow team members for help and insights.
 
-4. OK. OK. Where do I Jump In?
+5. OK. OK. Where do I Jump In?
 ===========================
 
 The following links will show tasks that need doing related to the software that runs on the robot. They are loosely ranked at:
