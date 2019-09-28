@@ -12,7 +12,8 @@ It's important that you know what we've done so far.
 
 1. Fall 2018: `We built a small bluetooth-controlled rover <http://dvcrobotics.tech/timeline/>`_
 2. Spring 2019: `We built the prototype for an autonomous DVC Viking tour-guide robot <http://dvcrobotics.tech/about-us/>`_
-3. Fall 2019: `Right now! We are finishing our prototype to make the viking robot fully autonomous. It will drive from one side of the campus to the other without human assistance by the end of this semester.<https://google.com/>`_
+3. Fall 2019: `Right now! We are finishing our prototype to make the viking robot fully autonomous. It will drive from one side of the campus to the other without human assistance by the end of this semester <http://dvcrobotics.tech/about-us/>`_
+
 
 
 2. What Do I Need to Know?
