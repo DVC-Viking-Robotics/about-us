@@ -1,18 +1,27 @@
 
-Welcome
-------------
+1. Welcome
+==============
 
-If you're reading this, you are probably thinking about contributing to the `DVC-Viking-Robotics <https://github.com/DVC-Viking-Robotics>`_ software and web development. This is your starting point; think of this readme file as a the "GO" space on a Monopoly board game. You start here, land on a task, then come back around for another "GO" because all useful links will be contained here.
+If you're reading this, you are probably thinking about contributing to the `DVC-Viking-Robotics <https://github.com/DVC-Viking-Robotics>`_ software part of the DVC Viking MASCCOT robot project. 
+This is your starting point; think of this readme file as a the "GO" space on a Monopoly board game. You start here, land on a task, then come back around for another "GO" because all useful links will be contained here.
 
-What Do I Need to Know?
------------------------
+
+Our Progress
+-------------
+It's important that you know what we've done so far.
+1. `Fall 2018: We built a small bluetooth-controlled rover <http://dvcrobotics.tech/timeline/>`
+2. `Spring 2019: We built the prototype for an autonomous DVC Viking tour-guide robot <http://dvcrobotics.tech/about-us/>`
+3. `Fall 2019: Right now! We're going to finish our prototype and make the viking robot fully autonomous. It will drive from one side of the campus to the other without human assistance` 
+
+2. What Do I Need to Know?
+=======================
 
 When contributing to a organization or community, they'll always recommend you review the "contributing guideline" document. No one ever really reads through the guidelines because they are usually long-winded and can get very complicated. The general rule for contributing is to keep things professional. If you read that previous sentence, then you've just read the our contributing guideline.
 
 The main programming language we use is Python. We also use C++ for software running on the Arduino. Other languages that are specific to web design include: HTML, CSS, and (if you dare) JavaScript.
 
-What If I Am New/Rusty at Programming?
---------------------------------------
+3. What If I Am New/Rusty at Programming?
+======================================
 
 That's good! Our primary goal as an organization is to learn, sharpen, and hone the skills you'll probably need in the world outside our small spectrum. Here are some links to great "learning-the-basics" resources to get you started:
 
@@ -20,8 +29,8 @@ That's good! Our primary goal as an organization is to learn, sharpen, and hone 
 
 * The best way to learn is to get your feet wet. That is to say: take a deep breathe and jump right in. This method may seem a little overwhelming, but we encourage asking your fellow team members for help and insights.
 
-OK. OK. Where do I Jump In?
-----------------------------
+4. OK. OK. Where do I Jump In?
+===========================
 
 The following links will show tasks that need doing related to the software that runs on the robot. They are loosely ranked at:
 
