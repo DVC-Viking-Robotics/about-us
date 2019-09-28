@@ -46,14 +46,14 @@ Hardware & Sensors:
 
 
 3. What Do I Need to Know?
-=======================
+=============================
 
 When contributing to a organization or community, they'll always recommend you review the "contributing guideline" document. No one ever really reads through the guidelines because they are usually long-winded and can get very complicated. The general rule for contributing is to keep things professional. If you read that previous sentence, then you've just read the our contributing guideline.
 
 The main programming language we use is Python. We also use C++ for software running on the Arduino. Other languages that are specific to web design include: HTML, CSS, and (if you dare) JavaScript.
 
 4. What If I Am New/Rusty at Programming?
-======================================
+=================================================
 
 That's good! Our primary goal as an organization is to learn, sharpen, and hone the skills you'll probably need in the world outside our small spectrum. Here are some links to great "learning-the-basics" resources to get you started:
 
@@ -62,7 +62,7 @@ That's good! Our primary goal as an organization is to learn, sharpen, and hone 
 * The best way to learn is to get your feet wet. That is to say: take a deep breathe and jump right in. This method may seem a little overwhelming, but we encourage asking your fellow team members for help and insights.
 
 5. OK. OK. Where do I Jump In?
-===========================
+==================================
 
 The following links will show tasks that need doing related to the software that runs on the robot. They are loosely ranked at:
 
