@@ -48,7 +48,7 @@ Hardware & Sensors:
 3. What Do I Need to Know?
 =============================
 
-When contributing to a organization or community, they'll always recommend you review the "contributing guideline" document. No one ever really reads through the guidelines because they are usually long-winded and can get very complicated. The general rule for contributing is to keep things professional. If you read that previous sentence, then you've just read the our contributing guideline.
+When contributing to a organization or community, they'll always recommend you review the "contributing guideline" document. No one ever really reads through the guidelines because they are usually long-winded and can get very complicated. The general rule for contributing is to keep things professional. Read the our `contributing guidelines <>`_.
 
 The main programming language we use is Python. We also use C++ for software running on the Arduino. Other languages that are specific to web design include: HTML, CSS, and (if you dare) JavaScript.
 
