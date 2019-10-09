@@ -932,10 +932,6 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono">
 
   <style id="cornerstone-custom-page-css">
-    /* @import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,800,900i');
-    @import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
-    @import url('https://fonts.googleapis.com/css?family=Cutive+Mono'); */
-
     .mans {
       font-size: 120% !important;
       font-weight: bold !important;
@@ -1470,31 +1466,24 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/ScrollMagic.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/plugins/animation.gsap.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/plugins/debug.addIndicators.js"></script>
+
   <script id="cornerstone-custom-content-js" type="text/javascript">
-    // @import url("https://cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min.js")
-    // @import url("https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/ScrollMagic.js")
-    // @import url("https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/plugins/animation.gsap.js")
-    // @import url("https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/plugins/debug.addIndicators.js")
+    jQuery(document).ready(function ($) {
+      $(function () {
+        var controller = new ScrollMagic.Controller();
 
+        var blockTween = new TweenMax.to('#test', 1.5, {
+          transform: 'scale(.55)',
 
-    $(function () {
-      var controller = new ScrollMagic.Controller();
+        });
 
-      var blockTween = new TweenMax.to('#test', 1.5, {
-        transform: 'scale(.55)',
-
+        var containerScene = new ScrollMagic.Scene({
+          triggerElement: '#anim'
+        })
+          .setTween(blockTween)
+          .addIndicators()
+          .addTo(controller);
       });
-
-      var containerScene = new ScrollMagic.Scene({
-        triggerElement: '#anim'
-      })
-        .setTween(blockTween)
-        .addIndicators()
-        .addTo(controller);
-    });
-    $(document).ready(function () {
-      $("#github-logo").fadeIn(10000);
-
     });
 
     jQuery(document).ready(function ($) {
