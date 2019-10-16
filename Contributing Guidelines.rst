@@ -39,3 +39,5 @@ The process to contributing is as follows:
    .. image:: guideline_pictures\merge_to_master.png
 
    .. image:: guideline_pictures\assign_reviewers.png
+
+If you are looking for how to contribute to the documentation please read our guide on `Contributing Documentation <https://github.com/DVC-Viking-Robotics/about-us/blob/master/Contributing%20Documentation.rst>`_.
