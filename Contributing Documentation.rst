@@ -23,7 +23,7 @@ All documentation is written in `reStructuredText syntax (rST for short) <http:/
 What is ReadTheDocs.org about?
 ------------------------------
 
-ReadTheDocs.org (referred to as RTD) is a freely available domain hosting service that allows open source developers to host their software's documentation. Each software's documentation is represented by a "project" on RTD. RTD allows easy integration with version control services (like Github and Bitbucket). This means that, when properly set up, all changes pushed to a software's repository are automatically reflected on RTD (regarding the "./docs" folder). Each pushed commit from Github automatically triggers a new documentation build (this may take a couple minutes to complete on RTD's servers). You must install the RTD sphinx theme using
+ReadTheDocs.org (referred to as RTD) is a freely available domain hosting service that allows open source developers to host their software's documentation. Each software's documentation is represented by a "project" on RTD. RTD allows easy integration with version control services (like Github and Bitbucket). This means that, when properly set up, all changes pushed to a software's repository are automatically reflected on RTD (regarding the "./docs" folder and any changes in the source code's comment blocks AKA `docstrings <https://www.geeksforgeeks.org/python-docstrings/>`_). Each pushed commit from Github automatically triggers a new documentation build (this may take a couple minutes to complete on RTD's servers). You must install the RTD sphinx theme using
 
 .. code-block:: shell
 
