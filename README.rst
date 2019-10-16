@@ -72,4 +72,4 @@ The following links will show tasks that need doing related to the software that
 
 If you're interested in web design, you need look no further. the repository that this README.rst lives in is our webpage's home. It sorely needs some tender love and care. We are open to different solutions in this regard
 
-For instance this readme is written in a markup language reStructuredText ("rST" for short). rSt is being used to document our software (in the source code comment blocks) and host it on `ReadTheDocs.org <https://rtfd.io>`_. Our aim is to allow the software we write to be used by anyone trying to mimic ro improve upon it in their own context.
+For instance this readme is written in a markup language reStructuredText ("rST" for short). rSt is being used to document our software (in the source code comment blocks) and host it on `ReadTheDocs.org <https://rtfd.io>`_. Our aim is to allow the software we write to be used by anyone trying to mimic or improve upon it in their own context. Read also our `contributing documentation <https://github.com/DVC-Viking-Robotics/about-us/blob/master/Contributing%20Documentation.rst>`_ guide for more details.

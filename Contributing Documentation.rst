@@ -6,13 +6,13 @@ What is Sphinx?
 
 `Sphinx <http://www.sphinx-doc.org/en/master/>`_ is a third-party Python package that extends the builtin Python module `docutils <http://docutils.sourceforge.net/>`_. It can take the comment block in Python source code files and generate HTML pages for documentation purposes. In order to use Sphinx on your machine, you must install it via:
 
-.. code-block:: bash
+.. code-block:: shell
 
     pip install sphinx
     
 or if you're running Linux:
 
-.. code-block:: bash
+.. code-block:: shell
 
     pip3 install sphinx
 
@@ -25,13 +25,13 @@ What is ReadTheDocs.org about?
 
 ReadTheDocs.org (referred to as RTD) is a freely available domain hosting service that allows open source developers to host their software's documentation. Each software's documentation is represented by a "project" on RTD. RTD allows easy integration with version control services (like Github and Bitbucket). This means that, when properly set up, all changes pushed to a software's repository are automatically reflected on RTD (regarding the "./docs" folder). Each pushed commit from Github automatically triggers a new documentation build (this may take a couple minutes to complete on RTD's servers). You must install the RTD sphinx theme using
 
-.. code-block:: bash
+.. code-block:: shell
 
     pip install sphinx-rtd-theme
     
 or if you're running Linux:
 
-.. code-block:: bash
+.. code-block:: shell
 
     pip3 install sphinx-rtd-theme
 
@@ -40,7 +40,7 @@ OK. Why does this matter?
 
 If you've made changes to a repository's documentation (either in the source code or something in the "./docs" folder), then it is IMPRTANT that you check if the documentation can be built successfully. This is done locally BEFORE pushing a commit by running the following commands from the repository's root folder:
 
-.. code-block:: bash
+.. code-block:: shell
     
     cd docs
     sphinx-build -E -W . _build/HTML
